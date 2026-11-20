@@ -1,0 +1,4 @@
+Success: True
+Maize bran: 68.75 kg | Soya cake: 31.25 kg
+Protein supplied: 18.00 kg (required 18 kg)
+Minimum cost: KES 3625.00

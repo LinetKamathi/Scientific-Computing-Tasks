@@ -1,0 +1,2 @@
+Bisection break-even quantity: 69.9265 loaves (41 iterations)
+Fixed-point break-even quantity: 69.9265 loaves (34 iterations)

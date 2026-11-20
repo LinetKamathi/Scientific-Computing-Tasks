@@ -1,0 +1,3 @@
+t= 4 h  linear=11.700 m  cubic=11.625 m
+t=10 h  linear=13.167 m  cubic=13.183 m
+t=16 h  linear=14.267 m  cubic=14.358 m

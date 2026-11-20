@@ -1,0 +1,4 @@
+Fitted model: users = 8.282 * exp(0.1905 * month)
+Monthly growth rate: 20.99%
+RMSE: 0.138 thousand users
+Forecast month 12: 81.5 thousand users

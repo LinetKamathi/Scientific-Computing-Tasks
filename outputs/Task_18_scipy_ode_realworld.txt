@@ -1,0 +1,3 @@
+R0 = beta/gamma = 5.0
+Peak infections: 478 learners on day 21.1
+Total ever infected by day 120: 993 (99.3%)

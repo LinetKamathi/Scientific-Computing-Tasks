@@ -1,0 +1,3 @@
+Mean transaction: KES 1095.89  = USD 8.37 after levy
+Total levy collected: KES 16,438,370
+Loop time: 0.1951 s | Vectorized: 0.00259 s | Speed-up: 75x

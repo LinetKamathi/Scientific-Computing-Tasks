@@ -1,0 +1,5 @@
+Initial guess [40.0, 30.0] -> point (40.000, 30.000) m, converged=True
+   residuals: [0. 0.]
+Initial guess [-50.0, -15.0] -> point (-48.000, -14.000) m, converged=True
+   residuals: [0. 0.]
+Road length inside coverage: 98.39 m

@@ -1,0 +1,4 @@
+Monthly rate (Newton):  0.770147%  in 4 iterations
+Monthly rate (Secant):  0.770147%  in 7 iterations
+Equivalent annual rate: 9.6435%
+Residual f(r): 2.183e-10

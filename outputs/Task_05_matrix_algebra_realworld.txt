@@ -1,0 +1,7 @@
+Mapped corners:
+ [[  0.     0.  ]
+ [103.92  60.  ]
+ [ 79.92 101.57]
+ [-24.    41.57]]
+Determinant of T: 0.96
+Area before: 6000 m^2, after transformation: 5760.0 m^2

@@ -1,0 +1,16 @@
+t=   0s  speed=  0.0 m/s  acceleration= 1.250 m/s^2
+t=   2s  speed=  2.5 m/s  acceleration= 1.350 m/s^2
+t=   4s  speed=  5.4 m/s  acceleration= 1.525 m/s^2
+t=   6s  speed=  8.6 m/s  acceleration= 1.650 m/s^2
+t=   8s  speed= 12.0 m/s  acceleration= 1.650 m/s^2
+t=  10s  speed= 15.2 m/s  acceleration= 1.500 m/s^2
+t=  12s  speed= 18.0 m/s  acceleration= 1.225 m/s^2
+t=  14s  speed= 20.1 m/s  acceleration= 0.875 m/s^2
+t=  16s  speed= 21.5 m/s  acceleration= 0.525 m/s^2
+t=  18s  speed= 22.2 m/s  acceleration= 0.250 m/s^2
+t=  20s  speed= 22.5 m/s  acceleration= 0.150 m/s^2
+
+Step-size study for d/dx sin(x) at x=1 (true value cos(1) = 0.54030231)
+h=0.1    forward error=4.29e-02  central error=9.00e-04
+h=0.01   forward error=4.22e-03  central error=9.00e-06
+h=0.001  forward error=4.21e-04  central error=9.01e-08

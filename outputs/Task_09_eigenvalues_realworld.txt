@@ -1,0 +1,6 @@
+Dominant eigenvalue: 1.0
+Home   PageRank = 0.4143
+About  PageRank = 0.2741
+Blog   PageRank = 0.2136
+Shop   PageRank = 0.0980
+Power-iteration result: [0.4143 0.2741 0.2136 0.098 ]

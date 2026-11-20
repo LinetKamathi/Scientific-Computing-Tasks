@@ -1,0 +1,4 @@
+Volume (trapezoid): 1.0656 million m^3
+Volume (Simpson):   1.0632 million m^3
+Difference: 2,400 m^3
+Average flow rate: 36.92 m^3/s

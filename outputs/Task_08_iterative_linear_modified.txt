@@ -1,0 +1,5 @@
+Jacobi temperatures: [89.99999998 79.99999997 69.99999996 59.99999997 49.99999998]
+Gauss-Seidel temperatures: [89.99999998 79.99999997 69.99999997 59.99999998 49.99999999]
+Direct solution: [90. 80. 70. 60. 50.]
+Jacobi iterations: 150
+Gauss-Seidel iterations: 76

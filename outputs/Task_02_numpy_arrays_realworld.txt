@@ -1,0 +1,6 @@
+Mean temperature: 23.77 C  | Max: 35.0 C at hour 12
+Mean humidity: 72.0 %  | Min: 44 %
+Hours of heat stress: 7
+Hours of high humidity: 10
+Hours when BOTH occur: 0
+First four temperatures in Kelvin: [289.65 289.15 288.95 288.65]

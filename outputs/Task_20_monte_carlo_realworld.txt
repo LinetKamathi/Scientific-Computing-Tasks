@@ -1,0 +1,4 @@
+Mean duration: 37.67 days, std: 3.51
+Probability of finishing after 38 days: 44.44%
+90th percentile duration: 42.4 days
+Monte Carlo estimate of pi: 3.1540 (error 0.0124)

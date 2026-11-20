@@ -1,0 +1,6 @@
+Naive loop : 100000.0000013329  abs error=1.333e-06  rel error=1.333e-11
+np.sum     : 100000.0000000000  abs error=2.910e-11  rel error=2.910e-16
+math.fsum  : 100000.0000000000  abs error=0.000e+00  rel error=0.000e+00
+naive == 100000.0 ? False
+np.isclose(naive, 100000.0) ? True
+Integer-cents total: KES 100000.0
